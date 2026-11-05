@@ -1,3 +1,11 @@
+<img width="3872" height="1088" alt="banner-crm-core" src="https://github.com/user-attachments/assets/c40b8988-6edf-4037-ac15-9217f72b6cf9" />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+</div>
+
 # Sales Analytics CRM — Domain Core
 
 A **Customer Relationship Management (CRM)** core for sales analytics, built with **TypeScript**, **Domain-Driven Design (DDD)** and **Clean Architecture**.
